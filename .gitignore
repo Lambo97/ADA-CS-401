@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-.DS_Store
-=======
 .ipynb_checkpoints
 *.sublime-project
 *.DS_Store
->>>>>>> master
+Tutorials/"04 - Scaling up"/Aircraft_Glossary.json
+Tutorials/"04 - Scaling up"/Bombing_Operations.json
